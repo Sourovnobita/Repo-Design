@@ -30,7 +30,6 @@ Here's a bit more about me:
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
 
