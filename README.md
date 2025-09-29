@@ -33,13 +33,14 @@ Here's a bit more about me:
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
 
-## Here is some of the projects I've worked on
+## My recent projects
 
-- ❤  [Auto Filter](https://github.com/codeflix-bots/autofilter) - ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏғɪʟᴛᴇʀ bot + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-- 📽️ [File Store](https://github.com/codeflix-bots/filestore) - A Telegram Advance Bot to store Posts and Documents and it can Access by Special Links. 
-- 📁 [Auto Rename](https://github.com/codeflix-bots/AutoRename) - ᴛʜᴇ auto ʀᴇɴᴀᴍᴇ ʙᴏᴛ! ᴡʜɪᴄʜ ᴄᴀɴ ᴀᴜᴛᴏʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ ᴀɴᴅ ᴛʜᴜᴍʙɴᴀɪʟ.
+[![File Store](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
+[![AutoRename](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=auto-rename-bot)](https://github.com/Codeflix-bots/auto-rename-bot)
 
-  _and more!_
+[![AniCruise](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=aflix)](https://github.com/Codeflix-bots/)
+[![Nova](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=nova)](https://github.com/Codeflix-bots/)
+[![NovaFlix](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=novaflix)](https://github.com/Codeflix-bots/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflix-bots)](https://github.com/codeflix-bots/github-readme-stats)
 
