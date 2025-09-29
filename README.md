@@ -37,10 +37,9 @@ Here's a bit more about me:
 
 [![File Store](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
 [![AutoRename](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=auto-rename-bot)](https://github.com/Codeflix-bots/auto-rename-bot)
+[![Links Share Bot](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Links-Share-Bot )](https://github.com/Codeflix-Bots/Links-Share-Bot)
 
-[![AniCruise](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=aflix)](https://github.com/Codeflix-bots/)
-[![Nova](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=nova)](https://github.com/Codeflix-bots/)
-[![NovaFlix](https://github-readme-stats.vercel.app/api/pin?username=ProYato&theme=github_dark&hide_border=true&repo=novaflix)](https://github.com/Codeflix-bots/)
+[![Premium Plans](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Premium-Plans)](https://github.com/Codeflix-Bots/Premium-Plans)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflix-bots)](https://github.com/codeflix-bots/github-readme-stats)
 
