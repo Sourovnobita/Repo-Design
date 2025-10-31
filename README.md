@@ -27,6 +27,15 @@ Here's a bit more about me:
 - 🚀 I'm always eager to learn new things and take on new challenges.
 - 🎓 I believe in the power of knowledge-sharing and open source.
 
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+<a href="https://telegram.me/cosmic_freak"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS
