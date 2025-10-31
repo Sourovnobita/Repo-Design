@@ -16,7 +16,7 @@ I like to follow the people with good projects but little followers. 😊
 
 Here's a bit more about me:
 <p align="center">
-<img src="https://graph.org/file/b4f436c65b5a4a64167c6-fc565d1449028a72dc.jpg">
+<img src="https://ibb.co/Pv4JFR5Q">
 </p>
 
 <br>
