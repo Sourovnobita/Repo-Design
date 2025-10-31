@@ -30,10 +30,10 @@ Here's a bit more about me:
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
-<a href="https://telegram.me/Rare_Bots_Hub"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://t.me/Rare_Bots_Support"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 <p align="center">
-<a href="https://t.me/Rare_Bots_Support"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://t.me/Rare_Bots_Hub"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -66,7 +66,7 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/cosmic_freak)
+- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/UR_Sourov)
 - [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
 
 <br>
