@@ -70,7 +70,7 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/ɴᴏʙɪᴛᴀ-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Sourov_Nobita)
+- [![telegram](https://img.shields.io/badge/ɴᴏʙιᴛᴀ-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Sourov_Nobita)
 - [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
 
 <br>
