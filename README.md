@@ -36,6 +36,10 @@ Here's a bit more about me:
 <a href="https://t.me/Rare_Bots_Hub"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2>
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS
