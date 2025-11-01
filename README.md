@@ -71,7 +71,6 @@ I enjoy collaborating with other developers and learning from their experiences.
 You can connect with me on various platforms:
 
 - [![telegram](https://img.shields.io/badge/NOBITA-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Sourov_Nobita)
-- [![telegram](https://img.shields.io/badge/SUPPORT-GROUP-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Rare_Bots_Support)
 
 <br>
 
