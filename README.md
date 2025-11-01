@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    「Rare 𝖡𝗈𝗍𝗌 Hub 𝖯𝗋𝗈𝖿𝗂𝗅𝖾 」
+    「 𝖯𝗋𝗈𝖿𝗂𝗅𝖾 Of Nobita 」
 </h2>
 
 <div style="display: flex;">
