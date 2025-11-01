@@ -70,8 +70,8 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/ɴᴏʙιᴛᴀ-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Sourov_Nobita)
-- [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
+- [![telegram](https://img.shields.io/badge/NOBITA-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Sourov_Nobita)
+- [![gmail](https://img.shields.io/badge/RARE-BOTS-HUB-Gmail-red?style=for-the-badge&logo=gmail)](mailto:showrovislam535@gmail.com)
 
 <br>
 
